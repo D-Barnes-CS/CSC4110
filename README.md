@@ -1,8 +1,6 @@
 https://github.com/MasudurRah/CSC4110
 
-^ ^ ^
-
-|   |   |
+^^^^^^^^
 
 Original upload 
 
